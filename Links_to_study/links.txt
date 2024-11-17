@@ -1,0 +1,8 @@
+1. https://developer.mozilla.org/en-US/
+2.
+for flex box:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://appbrewery.github.io/flex-layout/
+
+https://appbrewery.github.io/flexboxfroggy/s
